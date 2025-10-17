@@ -1,0 +1,3 @@
+añadir modelos
+añadir configurar base
+establecer typescript
